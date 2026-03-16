@@ -12,25 +12,17 @@
     "tabs": [
       {
         "tab": "Intro",
-        "groups": [
-          {
-            "group": "Variable Information",
-            "icon": "book",
-            "pages": [
-              "index",
-              "TOS",
-              "Privacy-Policy"
-            ]
-          },
-          {
-            "group": "Variable Bots",
-            "icon": "hammer",
-            "tag": "NEW",
-            "pages": [
-              "COSMOV2",
-              "Redacted"
-            ]
-          }
+        "pages": [
+          "index",
+          "TOS"
+        ]
+      },
+      {
+        "tab": "STARR",
+        "icon": "star",
+        "pages": [
+          "information",
+          "untitled-page"
         ]
       }
     ]
