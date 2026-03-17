@@ -39,8 +39,28 @@
             "group": "Install",
             "icon": "download",
             "pages": [
-              "untitled-page",
+              "installing",
               "whitelisting"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "MOON",
+        "icon": "moon",
+        "groups": [
+          {
+            "group": "Information",
+            "icon": "book-bookmark",
+            "pages": [
+              "information-copied-1"
+            ]
+          },
+          {
+            "group": "Install",
+            "icon": "download",
+            "pages": [
+              "installing-copied-1"
             ]
           }
         ]
