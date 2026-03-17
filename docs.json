@@ -21,6 +21,13 @@
               "index",
               "TOS"
             ]
+          },
+          {
+            "group": "Partnerships",
+            "icon": "handshake-simple",
+            "pages": [
+              "flux"
+            ]
           }
         ]
       },
