@@ -12,6 +12,7 @@
     "tabs": [
       {
         "tab": "Intro",
+        "icon": "book-atlas",
         "pages": [
           "index",
           "TOS"
