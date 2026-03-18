@@ -34,13 +34,13 @@
       {
         "tab": "STARR",
         "icon": "star",
-        "hidden": true,
         "groups": [
           {
             "group": "Information",
             "icon": "book-bookmark",
             "pages": [
-              "information"
+              "information",
+              "anti-exploit"
             ]
           },
           {
